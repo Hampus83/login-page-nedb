@@ -1,0 +1,24 @@
+{
+  "name": "login-page-nedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hampus83/login-page-nedb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hampus83/login-page-nedb/issues"
+  },
+  "homepage": "https://github.com/Hampus83/login-page-nedb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nedb-promise": "^2.0.1"
+  }
+}
